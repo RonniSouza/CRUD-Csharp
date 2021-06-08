@@ -1,0 +1,16 @@
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\Dio.Series1.exe
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\Dio.Series1.deps.json
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\Dio.Series1.runtimeconfig.json
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\Dio.Series1.runtimeconfig.dev.json
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\Dio.Series1.dll
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\ref\Dio.Series1.dll
+C:\Users\Ronni\Estudo\C#\Dio.Series1\bin\Debug\net5.0\Dio.Series1.pdb
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.csprojAssemblyReference.cache
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.AssemblyInfoInputs.cache
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.AssemblyInfo.cs
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.csproj.CoreCompileInputs.cache
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.dll
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\ref\Dio.Series1.dll
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.pdb
+C:\Users\Ronni\Estudo\C#\Dio.Series1\obj\Debug\net5.0\Dio.Series1.genruntimeconfig.cache
